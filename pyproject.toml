@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "farming-core-lib"
+version = "0.1.0"
+description = "Core semantic models and utilities for Web3 activity farming and analysis."
+authors = ["Your Name <you@example.com>"]
+packages = [{ include = "farming_core" }]
+
+[tool.poetry.dependencies]
+python = "^3.10"
