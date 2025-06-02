@@ -7,3 +7,7 @@ packages = [{ include = "farming_core" }]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.16.0"
+

@@ -1,0 +1,41 @@
+[
+  {
+    "action": "bridge",
+    "protocol": "stargate",
+    "from_chain": "ethereum",
+    "to_chain": "base",
+    "token": "eth",
+    "amount": 0.001999,
+    "tx_hash": "0xf2c9d19b817db717fa0ad1d2af9105ccc324f32ad8c2c582e316be16e4231dbb",
+    "from_address": "0x929d78d36d12be88168e4065dCe8ba55efC6dFeF",
+    "timestamp": "2025-06-02T10:58:47Z",
+    "status": "pending",
+    "scan_url": "https://etherscan.io/tx/0xf2c9d19b817db717fa0ad1d2af9105ccc324f32ad8c2c582e316be16e4231dbb"
+  },
+  {
+    "action": "bridge",
+    "protocol": "meson",
+    "from_chain": "polygon",
+    "to_chain": "zkfair",
+    "token": "usdc",
+    "amount": 2.0,
+    "tx_hash": "0xb495bfd79c6a5dc23706aea9adf010758c24b3a76641883af3eb0d8bed8abdd6",
+    "from_address": "0x929d78d36d12be88168e4065dCe8ba55efC6dFeF",
+    "timestamp": "2025-06-03",
+    "status": "confirmed",
+    "scan_url": "https://polygonscan.com/tx/0xb495bfd79c6a5dc23706aea9adf010758c24b3a76641883af3eb0d8bed8abdd6"
+  },
+  {
+    "action": "bridge",
+    "protocol": "across",
+    "from_chain": "base",
+    "to_chain": "mode",
+    "token": "weth",
+    "amount": 0.0007,
+    "tx_hash": "0x7c78900b42f4f49a2e901c04aeec5addcf0df6b9051c472f0d5a3a8cbdad7df1",
+    "from_address": "0x929d78d36d12be88168e4065dCe8ba55efC6dFeF",
+    "timestamp": "2025-06-02T21:16:31Z",
+    "status": "confirmed",
+    "scan_url": "https://basescan.org/tx/0x7c78900b42f4f49a2e901c04aeec5addcf0df6b9051c472f0d5a3a8cbdad7df1"
+  }
+]

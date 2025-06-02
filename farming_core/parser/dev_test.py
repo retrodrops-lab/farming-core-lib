@@ -1,5 +1,5 @@
-# from farming_core.parser._semantic_parser import parse_tx_to_semantic
-from semantic_parser.dispatcher import classify_transaction
+from .semantic_parser.dispatcher import classify_transaction
+
 from pprint import pprint
 
 tx = {
